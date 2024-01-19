@@ -1,0 +1,9 @@
+instalar o angular cli
+
+
+
+
+Quais principais vantagens de se utilizar angular?
+quais funcionalidades principais do angular?
+por onde posso começar?
+porque angular é util comparado ao javascript puro?
